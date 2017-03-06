@@ -3,6 +3,8 @@ provided](http://swapi.co/documentation#schema).
 
 ## Running
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/apollographql/swapi-rest-graphql.svg)](https://greenkeeper.io/)
+
 Install with:
 
 ```
